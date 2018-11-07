@@ -12,3 +12,8 @@ Broser A signals to servr with their info to talk to broswer B. Broser B says ye
 Users UDP 
 Faster streaming than web sockets
 
+Differences between Interface and Abstract class 
+
+Class can implement multiple interfaces but can eonly extend (inherit) one abstract class 
+variables declared in interfaces are static while abtract class variables aren't 
+abstract classes can have a constructor while interfaces can't
