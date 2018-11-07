@@ -3,3 +3,12 @@ Describe SSL/TLS?
 SSL (secure socket layer) 
 TLS (transport layer security)
 TLS is the newer version of SSL. Its the security encription in HTTPS. Contain data of company assessing information. Allows for safe transfer of data between the browser and the server. 
+
+What is webRTC? 
+
+Web real-time communication 
+Allows direct conntion between brosers 
+Broser A signals to servr with their info to talk to broswer B. Broser B says yes, and sends info to server which goes to broser A. Direct connections established between broswsers with no communication with server. 
+Users UDP 
+Faster streaming than web sockets
+
