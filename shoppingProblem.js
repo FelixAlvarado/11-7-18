@@ -30,7 +30,7 @@ var shoppingOffers = function(price, special, needs) {
 };
 
 function helper(price, special, needs, pos) {
-    	let local_min = directPurchase(price, needs);
+    	let localMin = directPurchase(price, needs);
     	for (let i = pos; i < special.length; i++) {
     		let offer = special[i];
     		let temp = [];
@@ -43,11 +43,11 @@ function helper(price, special, needs, pos) {
         	}
         	
     		if (temp != null) { // use the current offer and try next
-    			local_min = Math.min(local_min, offer[offer.length - 1] + helper(price, special, temp, i)); 
+    			localMin = Math.min(localMin, offer[offer.length - 1] + helper(price, special, temp, i)); 
     		}
     	}
 
-    	return  local_min;
+    	return  localMin;
     }
 
     function directPurchase(price, needs) {

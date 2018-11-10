@@ -1,19 +1,21 @@
-Describe SSL/TLS? 
+Describe SSL/TLS?
 
-SSL (secure socket layer) 
+SSL (secure socket layer)
 TLS (transport layer security)
-TLS is the newer version of SSL. Its the security encription in HTTPS. Contain data of company assessing information. Allows for safe transfer of data between the browser and the server. 
+TLS is the newer version of SSL. Its the security encription in HTTPS. Contain data of company assessing information. Allows for safe transfer of data between the browser and the server.
 
-What is webRTC? 
+What is webRTC?
 
-Web real-time communication 
-Allows direct conntion between brosers 
-Broser A signals to servr with their info to talk to broswer B. Broser B says yes, and sends info to server which goes to broser A. Direct connections established between broswsers with no communication with server. 
-Users UDP 
+Web real-time communication
+Allows direct conntion between brosers
+Broser A signals to servr with their info to talk to broswer B. Broser B says yes, and sends info to server which goes to broser A. Direct connections established between broswsers with no communication with server.
+Users UDP
 Faster streaming than web sockets
 
-Differences between Interface and Abstract class 
+Differences between Interface and Abstract class
 
-Class can implement multiple interfaces but can eonly extend (inherit) one abstract class 
-variables declared in interfaces are static while abtract class variables aren't 
+Class can implement multiple interfaces but can eonly extend (inherit) one abstract class
+variables declared in interfaces are static while abtract class variables aren't
 abstract classes can have a constructor while interfaces can't
+
+max score problem
