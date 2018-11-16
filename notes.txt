@@ -18,18 +18,18 @@ Class can implement multiple interfaces but can eonly extend (inherit) one abstr
 variables declared in interfaces are static while abtract class variables aren't
 abstract classes can have a constructor while interfaces can't
 
+
+
 max score problem
 
 Implement a Set in javascript
 
 const set = new Set([1,2,3]);
-set.length 
+set.length
 set.has(5) returns a boolean o(n) sets are iterable
 
 set.add(value)
 set.delete(value)
 set.clear()
-set.keys() and set.values() returns interator object that has values of set 
+set.keys() and set.values() returns interator object that has values of set
 set.forEach()
-
-
