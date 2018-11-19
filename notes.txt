@@ -35,3 +35,5 @@ set.keys() and set.values() returns interator object that has values of set
 set.forEach()
 
 worked on alation coding challenge
+
+worked on c3 coding challenge
