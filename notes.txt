@@ -37,3 +37,5 @@ set.forEach()
 worked on alation coding challenge
 
 worked on c3 coding challenge
+
+working on getSuggestions methods in core.js of alation project
