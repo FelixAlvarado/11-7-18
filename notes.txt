@@ -49,3 +49,15 @@ Segment replay
 data lock in - costumer unable transfer data to new service 
 
 what segment replay is 
+evaluate new tools with own dataget started right away wit new contracts 
+recover lost data when other tools go down 
+avoid data lock-in with existing venders
+increase leverage in vendor negotiaitons
+
+Replay flow
+1. send web and mobile dat to segment 
+2. segment stores historical data 
+segment streams data to integrations you use today 
+4. segment replays historical data into new integrations so you don't have to start from scratch with a new integrations
+scratch with a new integration 
+
