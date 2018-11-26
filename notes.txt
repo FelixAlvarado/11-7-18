@@ -43,3 +43,9 @@ working on getSuggestions methods in core.js of alation project
 worked on alation coding project
 
 worked on alation project css
+
+Segment replay 
+
+data lock in - costumer unable transfer data to new service 
+
+what segment replay is 
