@@ -61,3 +61,11 @@ segment streams data to integrations you use today
 4. segment replays historical data into new integrations so you don't have to start from scratch with a new integrations
 scratch with a new integration 
 
+Bussness plan cosutmer access 
+
+Bussiness constumers have most data flexibility. They can take advantage of replay when they changevenders or add a vendor to their analitic stack. 
+replay timestampled, historical data 
+replay works for all server-side destinations that have or accept timestamps, including our Amazon S3 (simple cloud storage service dstination). Get all data since first event sent to segment 
+dta warehouse stare of data accumulated from wide range of sources with a company and used to guide management decisions.
+
+Free, team, and bussiness costumers 
