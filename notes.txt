@@ -69,3 +69,30 @@ replay works for all server-side destinations that have or accept timestamps, in
 dta warehouse stare of data accumulated from wide range of sources with a company and used to guide management decisions.
 
 Free, team, and bussiness costumers 
+
+Free, team, and bussiness constumers 
+multiple options avaible to get access to raw data 
+warehouses free team can connect once while bussiness can connect unlimitd. Translate and load raw data logs for powerful anaysis in SQL
+S3 logssegment stores all api calls as line-seperated jSON objectws in AMAzon S3 
+if amazon s3 is enable, segment copies same data to costumer s3 bucket
+the data copied will only include data set to segment after you turn on destination 
+updates every hour around the 40 minute mark. 
+
+Webhooks 
+can use segments webhooks destination to fire requests in real time 
+costumer needs to manage their side (basically recreating what segment does)
+If event volume is high, can be difficult to keep a server up to receive those messages in realtime 
+Webhooks - provide mechanism for server side to alert 
+client side when an event happens 
+submit real time data to your own http enpoints in segment UI, click "Add Destination" and search webhooks within destinations catalog and confirm source. 
+can specify five different URLs (post request fired)
+
+Iron.io 
+similar to webhooks, but manages message queue and allow you to run scripts on data before routing to another endpoint 
+work still required from team 
+more reliable if event volume gets high 
+
+3rd part reporting APIs 
+the most restrictive option, but might be easiest if only need basic data to be exported
+examples are clickly and google. they are not flexible and won't see all data from segment (works for basic metrics)
+keen.io is more flexible (also availble on segment platform)
