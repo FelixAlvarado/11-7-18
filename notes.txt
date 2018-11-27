@@ -96,3 +96,11 @@ more reliable if event volume gets high
 the most restrictive option, but might be easiest if only need basic data to be exported
 examples are clickly and google. they are not flexible and won't see all data from segment (works for basic metrics)
 keen.io is more flexible (also availble on segment platform)
+
+segment replay use cases 
+
+evaluate new toos 
+get started quickly with new contracts
+recovr lose data when integration partners have outages 
+Avoid data lock-in with existing vendors 
+
