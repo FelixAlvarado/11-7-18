@@ -104,3 +104,7 @@ get started quickly with new contracts
 recovr lose data when integration partners have outages 
 Avoid data lock-in with existing vendors 
 
+Line-separted JSON 
+Probably refers to Newline delimited JSON whih is a conveniat format for storing and streaming structures data that may be processed one recordd at a time 
+whitespace ignored when parsing
+Each line treated as different json object
