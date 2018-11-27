@@ -114,3 +114,5 @@ logging service - records data to logs
 translation service - send data to each integration 
 replay service - reads from logs and writes to translation service 
 
+data replay 
+steam of continous snapshots of data that is designed to allow data to be replayed to aid in data backup and recovery
