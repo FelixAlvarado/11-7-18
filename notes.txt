@@ -82,6 +82,8 @@ worked on alation css
 
 alation box movement offset
 
+finished alation coding challenge
+
 Webhooks
 can use segments webhooks destination to fire requests in real time
 costumer needs to manage their side (basically recreating what segment does)
