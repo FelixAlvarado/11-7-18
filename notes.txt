@@ -80,6 +80,8 @@ updates every hour around the 40 minute mark.
 
 worked on alation css
 
+alation box movement offset
+
 Webhooks
 can use segments webhooks destination to fire requests in real time
 costumer needs to manage their side (basically recreating what segment does)
